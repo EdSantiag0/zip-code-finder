@@ -6,7 +6,7 @@
 
 This is a zip code searcher made with React JS and CSS. The goal is to fetch information from a zip code through an API and show location data.
 
-Este é um bucador de CEP feitom com React JS e CSS. O objetivo é buscar informações de um CEP atravez de uma API e mostrar os dados da localizaçõa.
+Este é um bucador de CEP feito com React JS e CSS. O objetivo é buscar informações de um CEP atravez de uma API e mostrar os dados da localizaçõa.
 
 ## Live link
 
