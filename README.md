@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/123377293/234136770-a6a6a3b3-f407-4a2a-a33c-58e9d0cc3b05.png)
+![image](https://raw.githubusercontent.com/EdSantiag0/zip-code-finder/main/public/img/imgzipcodedemo.png)
 
 # Zip Code Finder
 
@@ -30,4 +30,10 @@ git clone https://github.com/EdSantiag0/zip-code-finder.git
 
 ```
 cd zip-code-finder
+```
+
+3. Start the project:
+
+```
+npm start
 ```
