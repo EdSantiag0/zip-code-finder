@@ -4,7 +4,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: #ebc908;
+  background-image: url(../public/img/mapamundi.jpeg);
+  background-size: cover;
 }
 
 .title {
